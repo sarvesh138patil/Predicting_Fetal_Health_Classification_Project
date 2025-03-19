@@ -1,8 +1,6 @@
 # Predicting_Fetal_Health_Classification_Project
 
-Classification Algorithms used:
-1) Logistic Regression - 0.88
-2) Random Forest Classifier - 0.92
-3) Decision Tree Classifier - 0.90
-
-Random Forest was best performing model
+* Utilized Python and pandas to analyze a fetal health classification dataset, implementing Logistic Regression, Random Forest, and Decision Tree classifiers.
+* Faced challenges in optimizing model performance due to imbalanced data distribution and feature selection complexities.
+* Implemented techniques like oversampling, feature engineering, and hyperparameter tuning to address data imbalance and enhance model accuracy.
+* Achieved significant improvement in fetal health prediction accuracy, leading to better patient outcomes and healthcare decision-making.
